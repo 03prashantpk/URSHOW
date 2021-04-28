@@ -11,6 +11,8 @@ Visit here: https://www.enally.in/urshow/
 4. Booking ticket Form also allow users to Book snacks and Calculate amount of ticket. 
 5. Additional info: Min-and-Max no of ticket booking 1-10; You can choose 1 snacks packet only at once.
 
+Issues: https://github.com/03prashantpk/URSHOW/issues
+
 # Developer Message
 *Note: I (https://www.instagram.com/prashantpkumar/) developed this project for Class Assignment and after Evolution. I might change thing or I'll add more futures on it. Also, if anyone want to work on it or you are most welcome. Ping me on Instagram or LINKEDIN or you can visit my website. https://enally.in. 
 
