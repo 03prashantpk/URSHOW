@@ -10,6 +10,7 @@ Visit here: https://www.enally.in/urshow/
 3. Book Ticket on Main page (index.php) and Get your Hollywood and Bollywood in ticket1.php and ticket.php.
 4. Booking ticket Form also allow users to Book snacks and Calculate amount of ticket. 
 5. Additional info: Min-and-Max no of ticket booking 1-10; You can choose 1 snacks packet only at once.
+6. NO DATABASE REQUIRE - Whole system is working on PHP FILE HANDLING.
 
 Issues: https://github.com/03prashantpk/URSHOW/issues
 
@@ -24,4 +25,4 @@ Issues: https://github.com/03prashantpk/URSHOW/issues
 # How to Run the Project on local Machine?
 If you know how to setup PHP on your maching its good. Else you can follow someone on Youtube. Also, I'll update the whole process here ASAP. 
 
-Have a nice day!
+*Have a nice day!
