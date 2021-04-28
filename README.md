@@ -15,7 +15,7 @@ Visit here: https://www.enally.in/urshow/
 Issues: https://github.com/03prashantpk/URSHOW/issues
 
 # Developer Message
-*Note: I (https://www.instagram.com/prashantpkumar/) developed this project for Class Assignment and after Evolution. I might change thing or I'll add more futures on it. Also, if anyone want to work on it or you are most welcome. Ping me on Instagram or LINKEDIN or you can visit my website. https://enally.in. 
+*Note: I (https://tinyurl.com/pingPK) developed this project for Class Assignment and after Evolution. I might change thing or I'll add more futures on it. Also, if anyone want to work on it or you are most welcome. Ping me on Instagram or LINKEDIN or you can visit my website. https://enally.in. 
 
 *Important: if you find any bugs you are requested to please reach me on Instagram. (Instagram cause I check it most frequently.)
 
