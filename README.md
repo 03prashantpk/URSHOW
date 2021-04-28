@@ -24,4 +24,4 @@ Issues: https://github.com/03prashantpk/URSHOW/issues
 # How to Run the Project on local Machine?
 If you know how to setup PHP on your maching its good. Else you can follow someone on Youtube. Also, I'll update the whole process here ASAP. 
 
-For Now Have a nice day!
+Have a nice day!
