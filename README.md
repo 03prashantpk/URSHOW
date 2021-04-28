@@ -18,7 +18,7 @@ Issues: https://github.com/03prashantpk/URSHOW/issues
 
 *Important: if you find any bugs you are requested to please reach me on Instagram. (Instagram cause I check it most frequently.)
 
-# Project Link: https://www.enally.in/urshow/
+#Project Link: https://www.enally.in/urshow/
 
 
 # How to Run the Project on local Machine?
